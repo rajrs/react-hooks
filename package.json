@@ -1,0 +1,18 @@
+{
+  "name": "react-hooks",
+  "version": "1.0.0",
+  "description": "react hooks login auth and role ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react-hooks",
+    "mongodb",
+    "mongoose",
+    "react-hooks-form",
+    "redux-toolkit"
+  ],
+  "author": "raju",
+  "license": "MIT"
+}

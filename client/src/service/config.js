@@ -1,0 +1,1 @@
+export const config ={baseUrl:"localhost:4000"}
